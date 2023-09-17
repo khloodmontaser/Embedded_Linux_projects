@@ -1,0 +1,15 @@
+#include <iostream>
+
+int main(){
+
+    std::cout << "ascii table"<<std::endl;
+    std::cout << "+--------+--------+"<<std::endl;
+    std::cout << "| ascii  |  char  |"<<std::endl;
+    std::cout << "+--------+--------+"<<std::endl;
+    for (int i = 32 ; i < 127 ; i++){
+        std::cout << "|  "<< i << "    |  " << static_cast<char>(i) << "     |" << std::endl;
+
+    }
+        std::cout << "+--------+---------+"<<std::endl;
+}
+
