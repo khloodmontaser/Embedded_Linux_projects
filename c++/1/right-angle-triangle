@@ -1,0 +1,12 @@
+#include <iostream>
+
+int main(){
+for (int i = 0 ; i < 6 ; i++)
+{
+    for (int l = 0; l<= i ; l++)
+    std:: cout << "*" ;
+std :: cout << std::endl;
+}
+}
+
+
