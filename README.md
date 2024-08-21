@@ -1,1 +1,1 @@
-# Embedded_Linux_projects
+# problems solving c++ & python
