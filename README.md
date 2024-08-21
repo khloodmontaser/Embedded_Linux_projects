@@ -1,1 +1,1 @@
-# problems solving c++ & python
+# problem solving c++ & python
